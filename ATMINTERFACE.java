@@ -49,7 +49,7 @@ class ATM{
             }
             else{
                 System.out.println("Enter a valid choice");
-              main();
+              menu();
             }
         }
     public void transactionHistory(){
